@@ -1,8 +1,6 @@
 # Seedloaf mc server starter
 Selenium script to start seedloaf server 
 
-#### (only thing u need to do is add email and password)
-#### (There's a Instructions.md(not for [bot](https://discord.com/oauth2/authorize?client_id=1365006964001738993)) if u wish to add ur friends to use this)
 ### Table of contents:
 - [Setup](https://github.com/dibope/mcserverstarter/blob/main/README.md#to-use-it-for-ur-seedloaf-server)
 - [Prevent friends from changing code(Make sure u do this too!)](https://github.com/dibope/mcserverstarter/blob/main/README.md#to-prevent-them-from-changing-the-codenot-needed-for-bot) (Not needed for [bot](https://discord.com/oauth2/authorize?client_id=1365006964001738993))
@@ -52,7 +50,7 @@ in permissions tab
 
 Add your friends as collaborators
 ![collaboraters](https://github.com/dibope/mcserverstarter/blob/main/.github/workflows/Images/collaboraters.jpg)
-
+#### (There's a Instructions.md(not for [bot](https://discord.com/oauth2/authorize?client_id=1365006964001738993)) if u wish to tell ur friends how to use this)
 ### To prevent them from changing the code(Not needed for bot):
 
 1)Go to settings>branchs>branch protection rule>Require status check>select "fail-job" or type if not appearred.
