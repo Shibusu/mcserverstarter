@@ -16,7 +16,7 @@ on:
       start_or_stop:
         description: "start or stop"
         required: false
-        default: "true"
+        default: "start"
 
 jobs:
   run-selenium:
